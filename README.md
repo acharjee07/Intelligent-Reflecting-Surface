@@ -1,3 +1,3 @@
-# Intelligent-Reflecting-Surface
+# This repository contains my solution to the IEEE Signal Processing Cup 2021
 
-# first commit2
+## Configuring an Intelligent Reflecting Surface with gradiant based optimization
