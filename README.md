@@ -6,6 +6,6 @@
 ## Configuring an Intelligent Reflecting Surface with gradiant based optimization
 
 
-With Pytorch a algoritm is implemented by whcih given a channel matrix a 64*64 grid IRS is optimized with the gradient calculated by maximizing the power of a the signal.
+With Pytorch an algoritm is implemented. By whcih given a channel matrix, a 64*64 grid IRS is optimized with the gradient calculated by maximizing the power of a the signal.
 
 The algorithm works by an iterative approach in each iteratoin total 4096 elements are are selected either 1 or -1 based on the gradient value of each elements. It takes less than 10 iteratin to reach the optimum configuraiton 
